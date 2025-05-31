@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-31 18:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-31 17:54:56 +0000"
@@ -409,6 +415,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-05-31 18:22:08 +0000",
+      "minecraft:river": "2025-05-31 18:26:39 +0000",
       "minecraft:plains": "2025-05-31 17:54:25 +0000"
     },
     "done": false

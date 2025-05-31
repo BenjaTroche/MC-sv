@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-31 18:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 18:12:52 +0000"
@@ -556,6 +562,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-05-31 18:21:29 +0000",
+      "minecraft:river": "2025-05-31 18:26:38 +0000",
       "minecraft:plains": "2025-05-31 17:54:18 +0000"
     },
     "done": false
@@ -631,6 +639,7 @@
       "cooked_porkchop": "2025-05-31 18:07:25 +0000",
       "apple": "2025-05-31 18:04:50 +0000",
       "bread": "2025-05-31 18:11:49 +0000",
+      "cooked_chicken": "2025-05-31 18:18:58 +0000",
       "cooked_mutton": "2025-05-31 18:15:51 +0000"
     },
     "done": false

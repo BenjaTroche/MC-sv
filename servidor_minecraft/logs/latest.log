@@ -1,0 +1,43 @@
+[17:53:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:53:13] [ServerMain/INFO]: No existing world data, creating new world
+[17:53:14] [ServerMain/INFO]: Loaded 1370 recipes
+[17:53:14] [ServerMain/INFO]: Loaded 1481 advancements
+[17:53:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:53:14] [Server thread/INFO]: Loading properties
+[17:53:14] [Server thread/INFO]: Default game type: SURVIVAL
+[17:53:14] [Server thread/INFO]: Generating keypair
+[17:53:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:53:15] [Server thread/INFO]: Using epoll channel type
+[17:53:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:53:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:53:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:53:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:53:15] [Server thread/INFO]: Preparing level "world"
+[17:53:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:53:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:53:37] [Server thread/INFO]: Time elapsed: 7904 ms
+[17:53:37] [Server thread/INFO]: Done (22.379s)! For help, type "help"
+[17:54:18] [Server thread/INFO]: Benja_By[/127.221.233.66:52363] logged in with entity id 42 at (-5.5, 69.0, 5.5)
+[17:54:18] [Server thread/INFO]: Benja_By joined the game
+[17:54:24] [Server thread/INFO]: MEfi[/127.17.232.114:55129] logged in with entity id 106 at (-6.5, 69.0, 5.5)
+[17:54:24] [Server thread/INFO]: MEfi joined the game
+[17:58:06] [Server thread/INFO]: Benja_By has made the advancement [Stone Age]
+[17:58:21] [Server thread/INFO]: Benja_By has made the advancement [Getting an Upgrade]
+[17:58:32] [Server thread/INFO]: MEfi has made the advancement [Stone Age]
+[18:00:11] [Server thread/INFO]: MEfi went up in flames
+[18:00:13] [Server thread/INFO]: Benja_By went up in flames

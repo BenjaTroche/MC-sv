@@ -207,3 +207,8 @@
 [22Jun2025 04:14:03.521] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
 [22Jun2025 04:14:24.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -10.0502472245239,0.22401597588683586,-1.4600159957672076
 [22Jun2025 04:14:35.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 8.664224418354934,-0.07544406518948676,5.4799458342449725
+[22Jun2025 04:17:53.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Lord Pumpkinhead
+[22Jun2025 04:17:53.562] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[22Jun2025 04:21:08.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -0.3450531871230851,0.5813359922251635,10.147529710884555
+[22Jun2025 04:22:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[22Jun2025 04:23:17.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]

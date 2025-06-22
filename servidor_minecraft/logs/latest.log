@@ -212,3 +212,22 @@
 [22Jun2025 04:21:08.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -0.3450531871230851,0.5813359922251635,10.147529710884555
 [22Jun2025 04:22:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [22Jun2025 04:23:17.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[22Jun2025 04:30:18.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[22Jun2025 04:30:18.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[22Jun2025 04:30:18.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[22Jun2025 04:31:01.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[22Jun2025 04:31:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[22Jun2025 04:31:01.966] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[22Jun2025 04:31:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By went up in flames
+[22Jun2025 04:31:07.412] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[22Jun2025 04:31:26.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.101.28.28:33568] logged in with entity id 16162 at (2866.300000011921, 64.0, -4350.699999988079)
+[22Jun2025 04:31:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[22Jun2025 04:31:27.442] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[22Jun2025 04:31:27.443] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[22Jun2025 04:31:34.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[22Jun2025 04:31:35.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[22Jun2025 04:31:35.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[22Jun2025 04:33:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was shot by Lord Pumpkinhead
+[22Jun2025 04:33:04.507] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[22Jun2025 04:33:49.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pinkie'/16049, l='ServerLevel[world]', x=2866.24, y=56.02, z=-4313.75] died, message: 'Pinkie was slain by Decaying Zombie'
+[22Jun2025 04:33:49.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Pinkie'/16049, l='ServerLevel[world]', x=2866.24, y=56.02, z=-4313.75] died: Pinkie was slain by Decaying Zombie

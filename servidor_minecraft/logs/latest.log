@@ -222,3 +222,6 @@
 [23Jun2025 19:23:23.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
 [23Jun2025 19:23:24.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
 [23Jun2025 19:23:24.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[23Jun2025 19:28:26.746] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=793, y=-36, z=-2144}
+[23Jun2025 19:28:26.746] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=794, y=-36, z=-2144}
+[23Jun2025 19:33:18.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]

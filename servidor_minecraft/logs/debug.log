@@ -3582,3 +3582,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 19:23:24.987] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Benja_By: {disabled=false, disconnected=false, uuid=e72369cd-9bb9-39b7-803d-5fb0b0b53a20, name=Benja_By, group=null}
 [23Jun2025 19:24:27.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jun2025 19:24:27.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 19:25:58.091] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[23Jun2025 19:26:43.092] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[23Jun2025 19:28:26.746] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=793, y=-36, z=-2144}
+[23Jun2025 19:28:26.746] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=794, y=-36, z=-2144}
+[23Jun2025 19:29:27.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 19:29:27.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 19:33:18.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]
+[23Jun2025 19:34:27.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 19:34:27.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

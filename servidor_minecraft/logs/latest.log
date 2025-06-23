@@ -213,3 +213,5 @@
 [23Jun2025 18:46:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
 [23Jun2025 18:46:55.296] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
 [23Jun2025 18:59:46.041] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2458, y=-27, z=-3315}
+[23Jun2025 19:08:15.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Horror of the Depths]
+[23Jun2025 19:09:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Disgusting Lootbox]

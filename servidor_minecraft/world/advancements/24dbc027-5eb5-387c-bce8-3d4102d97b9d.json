@@ -4224,6 +4224,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-06-23 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-06-23 19:09:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-06-23 18:54:41 +0000"

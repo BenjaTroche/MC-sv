@@ -4440,6 +4440,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/confection_oven": {
+    "criteria": {
+      "mussel": "2025-06-23 18:21:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
       "eat_candy_cane": "2025-06-23 17:28:26 +0000"
@@ -4473,6 +4479,12 @@
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-06-23 17:30:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2025-06-23 18:24:32 +0000"
     },
     "done": true
   },

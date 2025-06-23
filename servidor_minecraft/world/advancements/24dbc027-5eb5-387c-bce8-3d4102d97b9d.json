@@ -883,6 +883,7 @@
       "minecraft:cave_spider": "2025-06-17 18:58:17 +0000",
       "minecraft:piglin": "2025-06-20 20:19:33 +0000",
       "minecraft:stray": "2025-06-17 18:59:40 +0000",
+      "minecraft:enderman": "2025-06-23 20:04:10 +0000",
       "minecraft:vex": "2025-06-17 18:59:30 +0000",
       "minecraft:zombie": "2025-06-12 21:20:23 +0000",
       "minecraft:drowned": "2025-06-12 21:25:17 +0000",
@@ -4222,6 +4223,12 @@
   "tombstone:adventure/versatility": {
     "criteria": {
       "coded_trigger": "2025-06-23 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-06-23 20:00:58 +0000"
     },
     "done": true
   },

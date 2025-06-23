@@ -233,3 +233,16 @@
 [23Jun2025 19:41:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Village Defender]
 [23Jun2025 19:44:05.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]
 [23Jun2025 19:54:24.889] [Worker-Main-82/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=800, y=-37, z=-4542}
+[23Jun2025 19:56:21.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cierra'/59003, l='ServerLevel[world]', x=643.56, y=68.80, z=-4678.34] died, message: 'Cierra was slain by Fallen Chaos Knight'
+[23Jun2025 19:56:21.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cierra'/59003, l='ServerLevel[world]', x=643.56, y=68.80, z=-4678.34] died: Cierra was slain by Fallen Chaos Knight
+[23Jun2025 20:00:58.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Senior Summoner]
+[23Jun2025 20:02:14.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lucienne'/62330, l='ServerLevel[world]', x=1391.70, y=46.00, z=-5114.62] died, message: 'Lucienne was slain by Zombie Villager'
+[23Jun2025 20:02:14.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lucienne'/62330, l='ServerLevel[world]', x=1391.70, y=46.00, z=-5114.62] died: Lucienne was slain by Zombie Villager
+[23Jun2025 20:02:52.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]
+[23Jun2025 20:07:40.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e72369cd-9bb9-39b7-803d-5fb0b0b53a20 timed out
+[23Jun2025 20:07:40.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Benja_By
+[23Jun2025 20:07:40.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[23Jun2025 20:08:15.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Timed out
+[23Jun2025 20:08:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[23Jun2025 20:08:15.373] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[23Jun2025 20:08:57.286] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=842, y=-11, z=-2788}

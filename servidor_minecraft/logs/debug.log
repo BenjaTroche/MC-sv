@@ -3306,3 +3306,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 17:42:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The (Cinnamon) Spice Must Flow]
 [23Jun2025 17:42:50.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Sweet Sweet Speeding Up]
 [23Jun2025 17:43:25.079] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[23Jun2025 17:44:27.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 17:44:27.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 17:49:27.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 17:49:27.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 17:50:34.085] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether

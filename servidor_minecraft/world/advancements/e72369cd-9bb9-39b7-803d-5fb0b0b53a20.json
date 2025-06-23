@@ -4452,6 +4452,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-06-23 17:42:50 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel_apple": {
     "criteria": {
       "mussel": "2025-06-23 17:29:22 +0000"

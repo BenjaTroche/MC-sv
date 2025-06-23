@@ -4440,39 +4440,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/confection_oven": {
-    "criteria": {
-      "mussel": "2025-06-23 18:21:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_candy_cane": {
-    "criteria": {
-      "eat_candy_cane": "2025-06-23 17:28:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/shot_gum": {
-    "criteria": {
-      "shot_gum": "2025-06-23 18:08:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-06-23 18:42:53 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-06-23 17:25:39 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/sugar_rush": {
+  "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
-      "all_effects": "2025-06-23 17:42:50 +0000"
+      "eat_candy_cane": "2025-06-23 17:28:26 +0000"
     },
     "done": true
   },
@@ -4488,9 +4464,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-06-23 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2025-06-23 18:08:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/confection_oven": {
+    "criteria": {
+      "mussel": "2025-06-23 18:21:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/rainbounce_boots": {
     "criteria": {
       "limestone": "2025-06-23 18:24:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-23 18:42:53 +0000"
     },
     "done": true
   },

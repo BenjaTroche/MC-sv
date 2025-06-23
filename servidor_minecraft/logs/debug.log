@@ -3319,3 +3319,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 17:59:27.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jun2025 18:01:02.094] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
 [23Jun2025 18:01:38.069] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[23Jun2025 18:04:27.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 18:04:27.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 18:08:46.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [And I'm All Out of Gum]
+[23Jun2025 18:09:27.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 18:09:27.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 18:11:49.087] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[23Jun2025 18:12:43.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> QUE RICO ME COGISTE MI AMOR
+[23Jun2025 18:13:37.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Choc-o-Block]

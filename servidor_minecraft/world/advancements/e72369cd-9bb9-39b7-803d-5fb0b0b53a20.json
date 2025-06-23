@@ -4446,6 +4446,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2025-06-23 18:08:46 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-06-23 17:25:39 +0000"

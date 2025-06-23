@@ -3342,3 +3342,36 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jun2025 18:29:27.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jun2025 18:29:27.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jun2025 18:33:13.069] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[23Jun2025 18:34:27.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 18:34:27.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 18:36:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[23Jun2025 18:37:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[23Jun2025 18:39:27.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 18:39:27.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 18:40:17.069] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[23Jun2025 18:40:50.086] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[23Jun2025 18:42:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Your First Receptacle]
+[23Jun2025 18:43:10.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Meu_By
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Meu_By
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Meu_By
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[23Jun2025 18:43:10.391] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 24dbc027-5eb5-387c-bce8-3d4102d97b9d to disconnected: {disabled=true, disconnected=true, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[23Jun2025 18:43:11.069] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.570] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.591] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.591] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.591] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:11.591] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.86.66.124:62718
+[23Jun2025 18:43:14.035] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Meu_By: {disabled=true, disconnected=true, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[23Jun2025 18:43:14.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[23Jun2025 18:43:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Your First Receptacle]
+[23Jun2025 18:43:15.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[23Jun2025 18:43:15.361] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Meu_By to connected: {disabled=true, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[23Jun2025 18:43:15.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[23Jun2025 18:43:15.553] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Meu_By: {disabled=true, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}

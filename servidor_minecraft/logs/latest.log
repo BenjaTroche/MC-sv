@@ -199,3 +199,13 @@
 [23Jun2025 18:21:24.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Tiny Battle in a Block]
 [23Jun2025 18:24:32.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [No Slime No Service]
 [23Jun2025 18:25:32.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -0.22517894825500662,-10.703352588506945,-2.794846600724668
+[23Jun2025 18:36:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[23Jun2025 18:37:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[23Jun2025 18:42:53.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Your First Receptacle]
+[23Jun2025 18:43:10.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[23Jun2025 18:43:10.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[23Jun2025 18:43:14.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[23Jun2025 18:43:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Your First Receptacle]
+[23Jun2025 18:43:15.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[23Jun2025 18:43:15.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat

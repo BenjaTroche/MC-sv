@@ -4458,6 +4458,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-23 18:42:53 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-06-23 17:25:39 +0000"

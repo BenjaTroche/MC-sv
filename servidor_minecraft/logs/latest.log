@@ -209,3 +209,6 @@
 [23Jun2025 18:43:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Your First Receptacle]
 [23Jun2025 18:43:15.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [23Jun2025 18:43:15.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[23Jun2025 18:46:55.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[23Jun2025 18:46:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[23Jun2025 18:46:55.296] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By

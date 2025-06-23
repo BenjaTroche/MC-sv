@@ -232,3 +232,4 @@
 [23Jun2025 19:39:17.490] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1559, y=-40, z=-4948}
 [23Jun2025 19:41:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Village Defender]
 [23Jun2025 19:44:05.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set the time to 1000]
+[23Jun2025 19:54:24.889] [Worker-Main-82/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=800, y=-37, z=-4542}

@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-23 19:39:58 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-17 02:40:30 +0000",
       "minecraft:taiga": "2025-06-17 02:40:36 +0000",
       "minecraft:deep_ocean": "2025-06-12 23:20:14 +0000",
@@ -4491,6 +4492,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-23 18:42:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-23 19:41:19 +0000"
     },
     "done": true
   },

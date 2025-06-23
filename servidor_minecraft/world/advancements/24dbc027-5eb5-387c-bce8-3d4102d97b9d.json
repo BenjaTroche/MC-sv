@@ -4201,6 +4201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-23 19:42:54 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
       "mussel": "2025-06-23 17:28:53 +0000"
@@ -4213,9 +4219,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-06-23 19:35:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-23 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-23 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-23 19:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-23 19:34:38 +0000"
     },
     "done": true
   },

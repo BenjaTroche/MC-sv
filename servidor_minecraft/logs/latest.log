@@ -212,3 +212,4 @@
 [23Jun2025 18:46:55.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
 [23Jun2025 18:46:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
 [23Jun2025 18:46:55.296] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[23Jun2025 18:59:46.041] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2458, y=-27, z=-3315}

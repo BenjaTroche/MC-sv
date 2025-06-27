@@ -248,3 +248,4 @@
 [27Jun2025 19:09:56.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> oki
 [27Jun2025 19:10:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] igual tranqui, voy a poder ver desde acá cuando te desconectes
 [27Jun2025 19:10:19.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahí me voy a dar cuenta y apago nomas
+[27Jun2025 19:26:33.945] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1576, y=-1, z=-4316}

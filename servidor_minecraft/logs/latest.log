@@ -231,3 +231,6 @@
 [27Jun2025 18:27:05.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yo tabmién te  amo uvu
 [27Jun2025 18:27:17.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy a seguir con lo mío, despues te escribo
 [27Jun2025 18:27:30.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> OKIS EXITOS
+[27Jun2025 18:58:26.733] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[27Jun2025 18:58:27.117] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[27Jun2025 18:58:27.130] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem

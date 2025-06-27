@@ -4202,12 +4202,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-06-23 19:42:54 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/radiant_essence": {
     "criteria": {
       "mussel": "2025-06-23 17:28:53 +0000"
@@ -4220,21 +4214,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/versatility": {
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
     "criteria": {
-      "coded_trigger": "2025-06-23 19:35:46 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-06-23 20:00:58 +0000"
+      "eat_block_of_chocolate": "2025-06-23 18:13:37 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-23 18:43:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-23 18:54:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-06-23 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-06-23 19:09:21 +0000"
     },
     "done": true
   },
@@ -4256,27 +4262,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/eat_block_of_chocolate": {
+  "tombstone:adventure/versatility": {
     "criteria": {
-      "eat_block_of_chocolate": "2025-06-23 18:13:37 +0000"
+      "coded_trigger": "2025-06-23 19:35:46 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:horrorofthe_depths": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "horrorofthe_depths_0": "2025-06-23 19:08:15 +0000"
+      "has_magma_cream": "2025-06-23 19:42:54 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:disgusting_lootbox": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "disgusting_lootbox_0": "2025-06-23 19:09:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-06-23 18:54:41 +0000"
+      "dismantledto_bones_0": "2025-06-23 20:00:58 +0000"
     },
     "done": true
   },

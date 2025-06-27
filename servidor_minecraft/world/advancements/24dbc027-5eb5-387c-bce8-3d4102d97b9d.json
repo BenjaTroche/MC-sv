@@ -4292,5 +4292,17 @@
     },
     "done": true
   },
+  "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
+    "criteria": {
+      "has_ancient_sand": "2025-06-27 18:36:22 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_ancient_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-27 18:36:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

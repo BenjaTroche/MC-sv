@@ -4280,6 +4280,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-27 18:21:52 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:lost_caves": {
     "criteria": {
       "lost_caves": "2025-06-27 17:55:35 +0000"

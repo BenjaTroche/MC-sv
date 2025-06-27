@@ -4292,6 +4292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-27 18:41:40 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
     "criteria": {
       "has_ancient_sand": "2025-06-27 18:36:22 +0000"

@@ -249,3 +249,20 @@
 [27Jun2025 19:10:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] igual tranqui, voy a poder ver desde acá cuando te desconectes
 [27Jun2025 19:10:19.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahí me voy a dar cuenta y apago nomas
 [27Jun2025 19:26:33.945] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1576, y=-1, z=-4316}
+[27Jun2025 19:32:44.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> beu
+[27Jun2025 19:33:00.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> me voy
+[27Jun2025 19:33:05.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[27Jun2025 19:33:05.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[27Jun2025 19:33:05.526] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[27Jun2025 19:35:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Jun2025 19:35:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jun2025 19:35:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jun2025 19:35:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jun2025 19:35:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jun2025 19:35:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jun2025 19:35:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jun2025 19:35:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jun2025 19:35:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jun2025 19:35:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jun2025 19:35:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jun2025 19:35:29.199] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

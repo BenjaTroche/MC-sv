@@ -170,3 +170,14 @@
 [28Jun2025 14:28:43.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [28Jun2025 14:28:44.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [28Jun2025 14:28:44.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[28Jun2025 14:35:41.159] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
+[28Jun2025 14:36:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[28Jun2025 14:37:26.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.89.128.69:59136] logged in with entity id 1819 at (1850.547077271079, 63.0, -5577.609918939218)
+[28Jun2025 14:37:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[28Jun2025 14:37:28.359] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[28Jun2025 14:37:28.359] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[28Jun2025 14:37:37.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[28Jun2025 14:37:38.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[28Jun2025 14:37:38.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[28Jun2025 14:42:26.848] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2192, y=-10, z=-4865}
+[28Jun2025 14:42:26.849] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2192, y=-10, z=-4867}

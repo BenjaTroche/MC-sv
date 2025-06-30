@@ -3125,3 +3125,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jun2025 23:01:30.631] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Meu_By to connected: {disabled=false, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
 [30Jun2025 23:01:30.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [30Jun2025 23:01:31.218] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Meu_By: {disabled=true, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[30Jun2025 23:04:10.713] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[30Jun2025 23:04:17.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 23:04:17.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 23:07:56.708] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[30Jun2025 23:09:17.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 23:09:17.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 23:10:14.709] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[30Jun2025 23:12:17.707] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end

@@ -175,3 +175,5 @@
 [30Jun2025 23:01:30.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [30Jun2025 23:01:30.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [30Jun2025 23:32:00.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 0.2540643166028076,-10.209944800805353,0.7576260266296231
+[30Jun2025 23:37:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Where's Goopy?]
+[30Jun2025 23:43:36.362] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1430, y=18, z=-4245}

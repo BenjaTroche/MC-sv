@@ -177,3 +177,5 @@
 [30Jun2025 23:32:00.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 0.2540643166028076,-10.209944800805353,0.7576260266296231
 [30Jun2025 23:37:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Where's Goopy?]
 [30Jun2025 23:43:36.362] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1430, y=18, z=-4245}
+[30Jun2025 23:46:20.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -0.44811375085623695,-11.141611616128865,-1.8227878430889177
+[30Jun2025 23:59:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has completed the challenge [It Spreads]

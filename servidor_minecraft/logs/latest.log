@@ -214,3 +214,15 @@
 [01Jul2025 18:52:02.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 1.0846652057516621,-11.757297032405944,1.2699891977363222
 [01Jul2025 18:52:47.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
 [01Jul2025 18:59:18.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2844, y=71, z=-4328} BlockPos{x=2844, y=73, z=-4330}
+[01Jul2025 19:11:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [A Terrible Fortress]
+[01Jul2025 19:11:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [A Terrible Fortress]
+[01Jul2025 19:13:02.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[01Jul2025 19:13:02.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[01Jul2025 19:13:02.700] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[01Jul2025 19:13:27.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:57545] logged in with entity id 19858 at (548.445479702418, 77.0, -447.1764507913655)
+[01Jul2025 19:13:27.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[01Jul2025 19:13:29.534] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[01Jul2025 19:13:29.534] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[01Jul2025 19:13:39.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[01Jul2025 19:13:40.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[01Jul2025 19:13:40.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat

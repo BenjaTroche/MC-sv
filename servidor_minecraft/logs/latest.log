@@ -13,3 +13,6 @@
 [01Jul2025 01:15:27.501] [Server thread/INFO] [Supplementaries/]: Searching for structure ResourceKey[minecraft:worldgen/structure / minecraft:desert_pyramid] from pos BlockPos{x=2727, y=85, z=-4494}
 [01Jul2025 01:50:29.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [01Jul2025 01:52:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[01Jul2025 02:04:39.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[01Jul2025 02:04:39.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[01Jul2025 02:04:39.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By

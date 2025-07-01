@@ -3167,3 +3167,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Jun2025 23:59:17.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 23:59:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has completed the challenge [It Spreads]
 [01Jul2025 00:03:46.698] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[01Jul2025 00:04:17.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:04:17.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:05:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Ol' Betsy]
+[01Jul2025 00:08:39.698] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[01Jul2025 00:09:17.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 00:09:17.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 00:10:31.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Spear Mint]

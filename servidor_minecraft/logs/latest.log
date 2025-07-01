@@ -234,3 +234,22 @@
 [01Jul2025 19:31:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Spear Mint]
 [01Jul2025 19:33:20.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
 [01Jul2025 19:33:50.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[01Jul2025 19:34:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[01Jul2025 19:36:33.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[01Jul2025 19:36:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[01Jul2025 19:36:33.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[01Jul2025 19:36:39.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[01Jul2025 19:36:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[01Jul2025 19:36:39.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[01Jul2025 19:36:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jul2025 19:36:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jul2025 19:36:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jul2025 19:36:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jul2025 19:36:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jul2025 19:36:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jul2025 19:36:52.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jul2025 19:36:52.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jul2025 19:36:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jul2025 19:36:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jul2025 19:36:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jul2025 19:36:52.448] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

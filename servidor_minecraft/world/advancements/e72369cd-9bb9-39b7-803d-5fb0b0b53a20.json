@@ -4508,15 +4508,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-07-01 01:15:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-01 01:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-01 01:15:52 +0000"
     },
     "done": true
   },

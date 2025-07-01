@@ -226,3 +226,7 @@
 [01Jul2025 19:13:39.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [01Jul2025 19:13:40.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [01Jul2025 19:13:40.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[01Jul2025 19:14:08.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[01Jul2025 19:14:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[01Jul2025 19:16:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Into Fire]
+[01Jul2025 19:22:24.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Ol' Betsy]

@@ -1,2 +1,10 @@
 [01Jul2025 00:05:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Ol' Betsy]
 [01Jul2025 00:10:31.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Spear Mint]
+[01Jul2025 00:49:22.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.89.128.69:48398] logged in with entity id 20467 at (2729.2646286448394, 85.0, -4489.202608631764)
+[01Jul2025 00:49:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[01Jul2025 00:49:24.682] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[01Jul2025 00:49:24.682] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[01Jul2025 00:49:33.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[01Jul2025 00:49:34.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[01Jul2025 00:49:34.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[01Jul2025 00:51:59.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Quite the Renovation]

@@ -23,3 +23,20 @@
 [01Jul2025 02:22:28.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [01Jul2025 02:22:40.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [01Jul2025 02:24:02.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[01Jul2025 02:35:44.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[01Jul2025 02:35:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[01Jul2025 02:35:44.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[01Jul2025 02:35:48.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2025 02:35:48.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STIO<--[HERE]
+[01Jul2025 02:35:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jul2025 02:35:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jul2025 02:35:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jul2025 02:35:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jul2025 02:35:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jul2025 02:35:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jul2025 02:35:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jul2025 02:35:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jul2025 02:35:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jul2025 02:35:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jul2025 02:35:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jul2025 02:35:50.909] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -168,3 +168,15 @@
 [14Jul2025 03:02:56.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [14Jul2025 03:02:56.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [14Jul2025 03:11:36.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
+[14Jul2025 03:20:16.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -3.9035743847671256,2.495504135427751,9.374861079933908
+[14Jul2025 03:21:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 03:21:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
+[14Jul2025 03:22:32.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.85.211.44:39708] logged in with entity id 5304 at (562.2943690813845, 84.0, -446.0425566047123)
+[14Jul2025 03:22:32.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[14Jul2025 03:22:35.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[14Jul2025 03:22:35.851] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[14Jul2025 03:22:48.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[14Jul2025 03:22:49.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[14Jul2025 03:22:49.275] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[14Jul2025 03:27:24.452] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kecia'/6486, l='ServerLevel[world]', x=2797.54, y=12.00, z=-4278.63] died, message: 'Kecia was slain by Zombie'
+[14Jul2025 03:27:24.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kecia'/6486, l='ServerLevel[world]', x=2797.54, y=12.00, z=-4278.63] died: Kecia was slain by Zombie

@@ -200,3 +200,11 @@
 [15Jul2025 18:41:34.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -6.849021518609106,-7.773956729510502,-14.941267413134483
 [15Jul2025 18:41:42.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6140ms or 122 ticks behind
 [15Jul2025 18:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Bonk!]
+[15Jul2025 18:47:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Great minds think alike]
+[15Jul2025 18:49:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[15Jul2025 18:50:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[15Jul2025 18:52:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[15Jul2025 18:54:31.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[15Jul2025 18:54:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [Not a Fan of the Red Flavor]
+[15Jul2025 18:55:40.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Not a Fan of the Red Flavor]
+[15Jul2025 18:56:01.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]

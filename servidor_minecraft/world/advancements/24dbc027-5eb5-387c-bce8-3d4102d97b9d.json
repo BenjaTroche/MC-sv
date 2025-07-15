@@ -885,6 +885,7 @@
       "minecraft:spider": "2025-06-12 23:00:06 +0000",
       "minecraft:piglin_brute": "2025-06-21 03:09:39 +0000",
       "minecraft:creeper": "2025-06-23 19:34:19 +0000",
+      "minecraft:phantom": "2025-07-15 02:26:57 +0000",
       "minecraft:zombified_piglin": "2025-07-01 19:16:31 +0000",
       "minecraft:witch": "2025-06-17 21:44:57 +0000",
       "minecraft:wither_skeleton": "2025-07-01 19:16:02 +0000",
@@ -4590,6 +4591,18 @@
       "has_ender_eye": "2025-07-14 03:37:12 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-15 02:29:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-07-15 02:29:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

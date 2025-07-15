@@ -237,3 +237,5 @@
 [15Jul2025 04:09:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
 [15Jul2025 04:10:20.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 18.134664831262853,-1.4044146482057585,2.597085409948704
 [15Jul2025 04:10:20.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3118ms or 62 ticks behind
+[15Jul2025 04:12:42.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[15Jul2025 04:13:06.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]

@@ -70,6 +70,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-06-17 02:35:59 +0000",
       "minecraft:snowy_beach": "2025-06-21 17:29:02 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:05:39 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-15 18:51:45 +0000",
       "minecraft:flower_forest": "2025-06-17 03:44:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 21:04:47 +0000",
       "minecraft:deep_dark": "2025-06-16 19:45:17 +0000",
@@ -883,6 +884,7 @@
       "minecraft:skeleton": "2025-06-12 22:13:09 +0000",
       "minecraft:ghast": "2025-06-21 03:00:17 +0000",
       "minecraft:hoglin": "2025-06-20 20:16:13 +0000",
+      "minecraft:guardian": "2025-07-15 18:57:45 +0000",
       "minecraft:vindicator": "2025-06-12 22:15:19 +0000",
       "minecraft:magma_cube": "2025-06-21 03:09:26 +0000",
       "minecraft:spider": "2025-06-12 23:00:06 +0000",
@@ -4732,6 +4734,30 @@
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-07-15 04:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-15 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-15 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-15 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/jelly_bean": {
+    "criteria": {
+      "mussel": "2025-07-15 18:55:40 +0000"
     },
     "done": true
   },

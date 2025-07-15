@@ -70,6 +70,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-06-17 02:37:01 +0000",
       "minecraft:snowy_beach": "2025-06-23 20:03:15 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:06:22 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-15 18:52:34 +0000",
       "minecraft:flower_forest": "2025-07-15 18:40:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 21:04:50 +0000",
       "minecraft:deep_dark": "2025-06-16 19:43:02 +0000",
@@ -785,6 +786,7 @@
       "minecraft:skeleton": "2025-06-12 21:38:38 +0000",
       "minecraft:ravager": "2025-06-20 20:23:05 +0000",
       "minecraft:hoglin": "2025-06-21 02:59:12 +0000",
+      "minecraft:guardian": "2025-07-15 18:56:40 +0000",
       "minecraft:vindicator": "2025-06-12 22:13:37 +0000",
       "minecraft:magma_cube": "2025-06-21 03:09:53 +0000",
       "minecraft:spider": "2025-06-12 22:54:41 +0000",
@@ -4854,9 +4856,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-15 18:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-15 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-07-15 19:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-15 18:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-15 18:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-15 18:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-15 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-15 19:05:01 +0000"
     },
     "done": true
   },
@@ -4875,6 +4919,24 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-15 18:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-15 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-15 19:01:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/jelly_bean": {
+    "criteria": {
+      "mussel": "2025-07-15 18:54:52 +0000"
     },
     "done": true
   },

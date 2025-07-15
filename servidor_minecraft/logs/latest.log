@@ -178,3 +178,15 @@
 [15Jul2025 02:04:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
 [15Jul2025 02:07:03.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
 [15Jul2025 02:07:33.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[15Jul2025 02:09:49.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[15Jul2025 02:12:53.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[15Jul2025 02:15:20.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[15Jul2025 02:15:20.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[15Jul2025 02:15:20.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[15Jul2025 02:18:08.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:57617] logged in with entity id 5319 at (2916.296101490143, 29.0, -4316.699999988079)
+[15Jul2025 02:18:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[15Jul2025 02:18:12.814] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[15Jul2025 02:18:12.815] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[15Jul2025 02:18:24.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[15Jul2025 02:18:26.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[15Jul2025 02:18:26.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat

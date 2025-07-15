@@ -200,3 +200,16 @@
 [15Jul2025 02:39:28.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Eye Spy]
 [15Jul2025 02:39:48.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Eye Spy]
 [15Jul2025 02:48:37.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[15Jul2025 02:51:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[15Jul2025 02:52:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[15Jul2025 02:53:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[15Jul2025 02:55:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[15Jul2025 02:57:52.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[15Jul2025 02:58:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> end
+[15Jul2025 02:59:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The End?]
+[15Jul2025 02:59:13.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [The End?]
+[15Jul2025 02:59:14.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -2916.931118325158,75.46415937495544,3843.7880003777104
+[15Jul2025 02:59:17.964] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[15Jul2025 02:59:17.967] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[15Jul2025 02:59:18.892] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[15Jul2025 02:59:18.894] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}

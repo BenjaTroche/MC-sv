@@ -4721,9 +4721,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-15 02:39:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-07-15 02:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-07-15 02:39:48 +0000"
     },
     "done": true
   },

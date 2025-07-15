@@ -889,6 +889,7 @@
       "minecraft:zombified_piglin": "2025-07-01 19:16:31 +0000",
       "minecraft:witch": "2025-06-17 21:44:57 +0000",
       "minecraft:wither_skeleton": "2025-07-01 19:16:02 +0000",
+      "minecraft:ender_dragon": "2025-07-15 03:10:39 +0000",
       "minecraft:cave_spider": "2025-06-17 18:58:17 +0000",
       "minecraft:piglin": "2025-06-20 20:19:33 +0000",
       "minecraft:stray": "2025-06-17 18:59:40 +0000",
@@ -4592,6 +4593,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-07-15 03:10:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-15 02:59:48 +0000"
@@ -4601,6 +4608,12 @@
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-07-15 02:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-15 03:14:16 +0000"
     },
     "done": true
   },
@@ -4615,6 +4628,12 @@
       "squireofthe_dark_lord_6": "2025-07-15 02:29:15 +0000"
     },
     "done": false
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-15 03:12:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {

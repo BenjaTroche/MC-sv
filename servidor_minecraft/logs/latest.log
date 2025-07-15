@@ -216,3 +216,9 @@
 [15Jul2025 03:00:25.950] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
 [15Jul2025 03:00:25.950] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
 [15Jul2025 03:00:56.103] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[15Jul2025 03:10:39.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Free the End]
+[15Jul2025 03:10:49.952] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[15Jul2025 03:11:17.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -5.187010950140047,2.9424277526289018,8.203588355784529
+[15Jul2025 03:12:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Remote Getaway]
+[15Jul2025 03:12:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Remote Getaway]
+[15Jul2025 03:20:13.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]

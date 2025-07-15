@@ -3550,3 +3550,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Jul2025 03:05:21.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2025 03:10:21.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 03:10:21.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 03:10:39.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Free the End]
+[15Jul2025 03:10:49.952] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[15Jul2025 03:11:17.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -5.187010950140047,2.9424277526289018,8.203588355784529
+[15Jul2025 03:11:26.100] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[15Jul2025 03:12:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Remote Getaway]
+[15Jul2025 03:12:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Remote Getaway]
+[15Jul2025 03:14:41.105] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[15Jul2025 03:15:21.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 03:15:21.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 03:20:13.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[15Jul2025 03:20:21.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 03:20:21.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

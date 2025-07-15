@@ -213,3 +213,6 @@
 [15Jul2025 02:59:17.967] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
 [15Jul2025 02:59:18.892] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
 [15Jul2025 02:59:18.894] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[15Jul2025 03:00:25.950] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[15Jul2025 03:00:25.950] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[15Jul2025 03:00:56.103] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}

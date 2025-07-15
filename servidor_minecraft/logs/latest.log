@@ -182,3 +182,5 @@
 [15Jul2025 18:16:34.488] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2410, y=19, z=-5505}
 [15Jul2025 18:20:10.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! -6.670675628493882,-2.820065587904125,-16.66274968601374
 [15Jul2025 18:24:46.322] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[15Jul2025 18:26:02.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 17.291472763247583,-3.2766737310949736,-0.9943071768520895
+[15Jul2025 18:29:50.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!

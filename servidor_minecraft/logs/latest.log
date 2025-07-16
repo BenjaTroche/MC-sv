@@ -269,3 +269,9 @@
 [16Jul2025 01:48:41.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [16Jul2025 01:50:17.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [16Jul2025 01:51:09.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 01:51:11.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[16Jul2025 01:51:16.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 01:53:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Respecting the Remnants]
+[16Jul2025 01:57:13.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-903, y=77, z=-10086} BlockPos{x=-901, y=77, z=-10083}
+[16Jul2025 01:57:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 01:59:12.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]

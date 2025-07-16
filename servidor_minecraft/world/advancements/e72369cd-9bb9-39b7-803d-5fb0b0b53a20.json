@@ -3081,10 +3081,11 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
+      "has_sherd": "2025-07-16 01:53:04 +0000",
       "trail_ruins_rare": "2025-06-17 02:52:15 +0000",
       "trail_ruins_common": "2025-06-17 02:50:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {

@@ -186,3 +186,9 @@
 [16Jul2025 00:28:56.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2688, y=-25, z=-8098}
 [16Jul2025 00:29:02.503] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2671, y=-42, z=-8134}
 [16Jul2025 00:29:53.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -5.411782732515803,6.779762951775936,5.04116976520254
+[16Jul2025 00:30:57.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -8.770163069356386,3.1838004546251852,4.058855240625235
+[16Jul2025 00:32:20.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Master Siphoner]
+[16Jul2025 00:32:22.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Horror Under the Mantle]
+[16Jul2025 00:37:05.716] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2043, y=-28, z=-7476}
+[16Jul2025 00:37:05.716] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2043, y=-28, z=-7477}
+[16Jul2025 00:39:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [A Howling Discovery]

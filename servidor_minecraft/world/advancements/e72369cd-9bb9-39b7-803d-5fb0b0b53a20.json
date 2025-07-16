@@ -46,6 +46,7 @@
       "minecraft:sunflower_plains": "2025-07-15 18:46:15 +0000",
       "minecraft:birch_forest": "2025-06-12 21:39:22 +0000",
       "minecraft:windswept_hills": "2025-06-12 21:07:35 +0000",
+      "minecraft:bamboo_jungle": "2025-07-16 00:30:33 +0000",
       "minecraft:beach": "2025-06-12 21:02:18 +0000",
       "minecraft:dark_forest": "2025-06-12 22:10:05 +0000",
       "minecraft:sparse_jungle": "2025-06-17 02:26:27 +0000",
@@ -5003,6 +5004,54 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-07-15 19:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-16 00:32:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 00:32:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-07-16 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-16 00:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-16 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-16 00:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-16 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-16 00:32:25 +0000"
     },
     "done": true
   },

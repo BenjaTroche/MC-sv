@@ -45,6 +45,7 @@
       "minecraft:cherry_grove": "2025-06-17 04:08:30 +0000",
       "minecraft:sunflower_plains": "2025-06-17 03:44:01 +0000",
       "minecraft:birch_forest": "2025-06-12 21:39:30 +0000",
+      "minecraft:bamboo_jungle": "2025-07-16 00:29:56 +0000",
       "minecraft:savanna_plateau": "2025-06-17 02:26:10 +0000",
       "minecraft:beach": "2025-06-12 21:00:59 +0000",
       "minecraft:dark_forest": "2025-06-12 22:09:28 +0000",
@@ -4801,6 +4802,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-07-15 19:16:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-07-16 00:32:22 +0000"
     },
     "done": true
   },

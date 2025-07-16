@@ -5019,6 +5019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-16 02:07:35 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/cut_ancient_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-16 00:41:21 +0000"
@@ -5043,6 +5049,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:lost_caves": {
     "criteria": {
       "lost_caves": "2025-07-16 00:39:09 +0000"
@@ -5055,9 +5079,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/ancient_sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-07-16 00:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-16 02:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-16 02:07:57 +0000"
     },
     "done": true
   },
@@ -5073,9 +5115,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-16 02:07:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-07-16 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
     },
     "done": true
   },
@@ -5085,9 +5139,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/layered_ancient_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-16 00:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
     },
     "done": true
   },
@@ -5103,9 +5169,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/ancient_sandstone": {
     "criteria": {
       "has_ancient_sand": "2025-07-16 00:41:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_clear": {
+    "criteria": {
+      "pharaoh_killed": "2025-07-16 02:01:16 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
     },
     "done": true
   },
@@ -5124,6 +5214,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-16 00:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:07:55 +0000"
     },
     "done": true
   },

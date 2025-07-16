@@ -275,3 +275,13 @@
 [16Jul2025 01:57:13.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-903, y=77, z=-10086} BlockPos{x=-901, y=77, z=-10083}
 [16Jul2025 01:57:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [16Jul2025 01:59:12.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 02:01:16.631] [Server thread/INFO] [betterdeserttemples/]: CLEARED TEMPLE AT BlockPos{x=-912, y=0, z=-10064}
+[16Jul2025 02:01:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has completed the challenge [Eternal Slumber]
+[16Jul2025 02:02:13.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 02:02:33.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[16Jul2025 02:02:52.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 02:04:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 02:04:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 02:05:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 02:06:37.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 02:10:27.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]

@@ -5035,6 +5035,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 00:52:06 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:lost_caves": {
     "criteria": {
       "lost_caves": "2025-07-16 00:39:09 +0000"

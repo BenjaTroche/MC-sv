@@ -228,3 +228,10 @@
 [16Jul2025 00:59:23.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> SI NO TE ESCUCHO ES POR LOS AURICULARES
 [16Jul2025 00:59:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> TE AMO BB
 [16Jul2025 00:59:39.135] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2458, y=-40, z=-9958}
+[16Jul2025 01:02:13.478] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[16Jul2025 01:02:13.485] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[16Jul2025 01:02:13.653] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[16Jul2025 01:07:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [An Ancient Tomb]
+[16Jul2025 01:08:27.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[16Jul2025 01:09:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[16Jul2025 01:09:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [An Ancient Tomb]

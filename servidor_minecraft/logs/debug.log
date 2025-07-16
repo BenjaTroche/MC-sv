@@ -3395,3 +3395,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 01:09:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
 [16Jul2025 01:09:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [An Ancient Tomb]
 [16Jul2025 01:10:21.986] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[16Jul2025 01:11:00.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 01:11:00.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 01:11:33.994] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[16Jul2025 01:16:00.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 01:16:00.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 01:18:10.574] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Meu_By: {disabled=true, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[16Jul2025 01:18:21.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 24dbc027-5eb5-387c-bce8-3d4102d97b9d timed out
+[16Jul2025 01:18:21.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Meu_By
+[16Jul2025 01:18:21.266] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Meu_By
+[16Jul2025 01:18:21.266] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Meu_By
+[16Jul2025 01:18:21.266] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Meu_By
+[16Jul2025 01:18:21.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[16Jul2025 01:18:21.267] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 24dbc027-5eb5-387c-bce8-3d4102d97b9d to disconnected: {disabled=true, disconnected=true, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[16Jul2025 01:18:21.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[16Jul2025 01:18:22.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[16Jul2025 01:18:22.711] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Meu_By to connected: {disabled=true, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[16Jul2025 01:18:22.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[16Jul2025 01:18:22.904] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Meu_By: {disabled=true, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[16Jul2025 01:18:49.003] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[16Jul2025 01:21:00.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 01:21:00.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

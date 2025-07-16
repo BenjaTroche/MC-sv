@@ -802,6 +802,7 @@
       "minecraft:zombified_piglin": "2025-06-21 02:57:22 +0000",
       "minecraft:witch": "2025-06-23 03:31:09 +0000",
       "minecraft:wither_skeleton": "2025-07-01 19:12:03 +0000",
+      "minecraft:husk": "2025-07-16 01:11:17 +0000",
       "minecraft:shulker": "2025-07-15 03:35:44 +0000",
       "minecraft:cave_spider": "2025-06-17 03:19:59 +0000",
       "minecraft:piglin": "2025-06-21 02:53:01 +0000",
@@ -5086,6 +5087,12 @@
   "yungscavebiomes:recipes/building_blocks/layered_ancient_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-16 00:41:21 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-07-16 01:07:07 +0000"
     },
     "done": true
   },

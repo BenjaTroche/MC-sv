@@ -3336,3 +3336,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jul2025 00:37:05.716] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2043, y=-28, z=-7477}
 [16Jul2025 00:38:47.898] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
 [16Jul2025 00:39:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [A Howling Discovery]
+[16Jul2025 00:40:58.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:40:58.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:41:56.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 7.274379117787021,-2.1027498274822136,-16.834605976358944
+[16Jul2025 00:43:00.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 00:43:18.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 00:43:28.691] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[16Jul2025 00:44:39.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Willette'/16790, l='ServerLevel[world]', x=1287.74, y=64.00, z=-7656.14] died, message: 'Willette was shot by Pillager'
+[16Jul2025 00:44:39.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Willette'/16790, l='ServerLevel[world]', x=1287.74, y=64.00, z=-7656.14] died: Willette was shot by Pillager
+[16Jul2025 00:45:31.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mitchell'/13640, l='ServerLevel[world]', x=1306.49, y=71.00, z=-7604.48] died, message: 'Mitchell was slain by Vindicator'
+[16Jul2025 00:45:31.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitchell'/13640, l='ServerLevel[world]', x=1306.49, y=71.00, z=-7604.48] died: Mitchell was slain by Vindicator
+[16Jul2025 00:45:39.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leonard'/15019, l='ServerLevel[world]', x=1306.51, y=71.00, z=-7603.85] died, message: 'Leonard was slain by Vindicator'
+[16Jul2025 00:45:39.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leonard'/15019, l='ServerLevel[world]', x=1306.51, y=71.00, z=-7603.85] died: Leonard was slain by Vindicator
+[16Jul2025 00:45:58.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:45:58.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:46:28.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tobias'/13625, l='ServerLevel[world]', x=1297.48, y=70.54, z=-7608.64] died, message: 'Tobias was chopped to bits by Skirmisher'
+[16Jul2025 00:46:28.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tobias'/13625, l='ServerLevel[world]', x=1297.48, y=70.54, z=-7608.64] died: Tobias was chopped to bits by Skirmisher
+[16Jul2025 00:46:35.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Harley'/16639, l='ServerLevel[world]', x=1311.18, y=71.00, z=-7607.49] died, message: 'Harley was chopped to bits by Skirmisher'
+[16Jul2025 00:46:35.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Harley'/16639, l='ServerLevel[world]', x=1311.18, y=71.00, z=-7607.49] died: Harley was chopped to bits by Skirmisher
+[16Jul2025 00:46:51.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Andreas'/16888, l='ServerLevel[world]', x=1292.95, y=65.00, z=-7667.95] died, message: 'Andreas was chopped to bits by Skirmisher'
+[16Jul2025 00:46:51.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Andreas'/16888, l='ServerLevel[world]', x=1292.95, y=65.00, z=-7667.95] died: Andreas was chopped to bits by Skirmisher
+[16Jul2025 00:47:26.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dorine'/16794, l='ServerLevel[world]', x=1268.70, y=64.19, z=-7644.66] died, message: 'Dorine was chopped to bits by Skirmisher'
+[16Jul2025 00:47:26.053] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dorine'/16794, l='ServerLevel[world]', x=1268.70, y=64.19, z=-7644.66] died: Dorine was chopped to bits by Skirmisher
+[16Jul2025 00:47:40.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hollis'/13624, l='ServerLevel[world]', x=1290.49, y=65.00, z=-7654.01] died, message: 'Hollis was chopped to bits by Skirmisher'
+[16Jul2025 00:47:40.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hollis'/13624, l='ServerLevel[world]', x=1290.49, y=65.00, z=-7654.01] died: Hollis was chopped to bits by Skirmisher
+[16Jul2025 00:47:41.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kena'/13646, l='ServerLevel[world]', x=1290.49, y=65.00, z=-7654.76] died, message: 'Kena was chopped to bits by Skirmisher'
+[16Jul2025 00:47:41.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kena'/13646, l='ServerLevel[world]', x=1290.49, y=65.00, z=-7654.76] died: Kena was chopped to bits by Skirmisher
+[16Jul2025 00:49:45.820] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1597, y=-16, z=-7827}
+[16Jul2025 00:49:45.820] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1595, y=-16, z=-7827}

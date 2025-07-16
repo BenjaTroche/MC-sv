@@ -285,3 +285,17 @@
 [16Jul2025 02:05:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
 [16Jul2025 02:06:37.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
 [16Jul2025 02:10:27.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 02:12:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 02:13:22.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[16Jul2025 02:13:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[16Jul2025 02:14:57.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[16Jul2025 02:15:18.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[16Jul2025 02:19:04.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [The day of the Dead]
+[16Jul2025 02:19:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [You've Got a Friend in Me]
+[16Jul2025 02:19:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [You've Got a Friend in Me]
+[16Jul2025 02:20:07.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[16Jul2025 02:20:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[16Jul2025 02:20:07.052] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[16Jul2025 02:20:25.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[16Jul2025 02:20:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[16Jul2025 02:20:25.443] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By

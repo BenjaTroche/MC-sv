@@ -171,3 +171,6 @@
 [21Jul2025 18:48:03.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [21Jul2025 18:48:03.787] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-613, y=17, z=-10395}
 [21Jul2025 18:50:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Big Boy]
+[21Jul2025 18:58:18.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[21Jul2025 19:00:32.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!
+[21Jul2025 19:01:17.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved wrongly!

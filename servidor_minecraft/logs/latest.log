@@ -196,3 +196,7 @@
 [21Jul2025 19:34:46.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has completed the challenge [Village Defender]
 [21Jul2025 19:35:11.740] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1162, y=-43, z=-10868}
 [21Jul2025 19:40:11.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The day of the Dead]
+[21Jul2025 19:41:47.082] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[21Jul2025 19:41:47.094] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[21Jul2025 19:41:47.095] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[21Jul2025 19:45:48.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind

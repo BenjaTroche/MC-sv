@@ -76,6 +76,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-06-17 02:37:01 +0000",
       "minecraft:snowy_beach": "2025-06-23 20:03:15 +0000",
       "minecraft:windswept_savanna": "2025-06-12 21:06:22 +0000",
+      "minecraft:warm_ocean": "2025-07-22 02:40:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-15 18:52:34 +0000",
       "minecraft:flower_forest": "2025-07-15 18:40:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 21:04:50 +0000",
@@ -5290,6 +5291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-22 02:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-22 02:34:39 +0000"
@@ -5299,6 +5306,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-22 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-22 02:53:37 +0000"
     },
     "done": true
   },

@@ -193,3 +193,10 @@
 [22Jul2025 02:40:52.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! -15.516319032770298,-3.4298646061059515,-8.380248348177702
 [22Jul2025 02:41:26.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 5.531469360957999,-0.6346382361743821,16.46558933601409
 [22Jul2025 02:41:59.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 13.877095915209793,-1.9518604796908363,-12.502620349729114
+[22Jul2025 02:49:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[22Jul2025 02:49:35.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[22Jul2025 02:49:51.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[22Jul2025 02:50:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[22Jul2025 02:50:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[22Jul2025 02:52:15.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[22Jul2025 02:54:59.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]

@@ -4945,9 +4945,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
+      "has_sherd": "2025-07-22 01:42:44 +0000",
       "desert_well": "2025-07-22 01:32:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -175,3 +175,13 @@
 [22Jul2025 01:39:49.295] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Joel'/8356, l='ServerLevel[world]', x=-2492.88, y=64.00, z=-11691.50] died: Joel was slain by Meu_By using [6Soulbane]
 [22Jul2025 01:41:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meu_By> twTW w
 [22Jul2025 01:42:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Respecting the Remnants]
+[22Jul2025 02:08:47.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.93.216.35:55704] logged in with entity id 13639 at (-722.5373915733923, 68.0, -10141.888455371904)
+[22Jul2025 02:08:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[22Jul2025 02:08:49.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[22Jul2025 02:08:49.544] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[22Jul2025 02:08:49.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[22Jul2025 02:08:57.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[22Jul2025 02:08:58.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[22Jul2025 02:08:58.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[22Jul2025 02:09:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[22Jul2025 02:10:08.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]

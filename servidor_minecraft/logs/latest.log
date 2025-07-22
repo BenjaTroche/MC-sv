@@ -185,3 +185,6 @@
 [22Jul2025 02:08:58.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
 [22Jul2025 02:09:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
 [22Jul2025 02:10:08.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[22Jul2025 02:25:18.004] [Server thread/INFO] [betterdeserttemples/]: CLEARED TEMPLE AT BlockPos{x=-2368, y=0, z=-11504}
+[22Jul2025 02:31:26.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[22Jul2025 02:32:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]

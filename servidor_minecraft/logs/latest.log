@@ -8,3 +8,8 @@
 [22Jul2025 00:01:27.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [22Jul2025 00:01:28.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [22Jul2025 00:01:28.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[22Jul2025 00:06:51.973] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1537, y=11, z=-11139}
+[22Jul2025 00:07:38.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 4.004465611237492,6.758165420362303,6.465360045378475
+[22Jul2025 00:10:18.018] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[22Jul2025 00:10:18.018] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[22Jul2025 00:10:18.030] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert

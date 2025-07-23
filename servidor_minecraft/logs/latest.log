@@ -214,3 +214,13 @@
 [23Jul2025 20:10:47.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
 [23Jul2025 20:12:51.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Laila'/25421, l='ServerLevel[world]', x=2719.70, y=63.00, z=-4485.03] died: Laila was doomed to fall by Meu_By using [6Soulbane]
 [23Jul2025 20:18:36.796] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
+[23Jul2025 20:33:36.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.93.216.35:60096] logged in with entity id 42470 at (2748.150313492546, 64.0, -4471.093136664974)
+[23Jul2025 20:33:36.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[23Jul2025 20:33:40.369] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[23Jul2025 20:33:40.370] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[23Jul2025 20:33:58.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[23Jul2025 20:33:59.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[23Jul2025 20:33:59.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[23Jul2025 20:34:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[23Jul2025 20:35:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[23Jul2025 20:37:31.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind

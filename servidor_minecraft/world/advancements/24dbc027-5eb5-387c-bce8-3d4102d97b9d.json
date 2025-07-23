@@ -4931,9 +4931,10 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "coded_trigger": "2025-07-22 01:39:49 +0000"
+      "has_sherd": "2025-07-22 01:42:44 +0000",
+      "desert_well": "2025-07-22 01:32:46 +0000"
     },
     "done": true
   },
@@ -4943,10 +4944,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "has_sherd": "2025-07-22 01:42:44 +0000",
-      "desert_well": "2025-07-22 01:32:46 +0000"
+      "coded_trigger": "2025-07-22 01:39:49 +0000"
     },
     "done": true
   },

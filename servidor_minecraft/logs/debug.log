@@ -3321,3 +3321,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jul2025 19:13:17.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> me quiero tirar un pedo
 [23Jul2025 19:13:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> NO PUEDO
 [23Jul2025 19:13:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> se me fue pa dentro
+[23Jul2025 19:17:55.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:17:55.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:22:14.499] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[23Jul2025 19:22:55.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 19:22:55.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:24:15.820] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[23Jul2025 19:24:15.828] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[23Jul2025 19:24:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja_By> ME TIRÉ EL SILENCIOSO
+[23Jul2025 19:24:59.516] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[23Jul2025 19:25:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Spectator Mode]
+[23Jul2025 19:25:47.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[23Jul2025 19:27:04.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]

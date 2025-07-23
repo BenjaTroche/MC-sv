@@ -209,3 +209,7 @@
 [23Jul2025 20:03:24.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3300, y=42, z=-4545} BlockPos{x=3300, y=41, z=-4544}
 [23Jul2025 20:05:07.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Life Finds A Way]
 [23Jul2025 20:05:10.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Jul2025 20:10:47.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[23Jul2025 20:10:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[23Jul2025 20:10:47.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[23Jul2025 20:12:51.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Laila'/25421, l='ServerLevel[world]', x=2719.70, y=63.00, z=-4485.03] died: Laila was doomed to fall by Meu_By using [6Soulbane]

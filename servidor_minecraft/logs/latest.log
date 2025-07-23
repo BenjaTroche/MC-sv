@@ -199,3 +199,4 @@
 [23Jul2025 19:41:51.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chas'/649, l='ServerLevel[world]', x=2838.24, y=84.00, z=-4511.30] died: Chas was slain by Zombie Villager
 [23Jul2025 19:41:58.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Keith'/646, l='ServerLevel[world]', x=2839.22, y=84.00, z=-4511.35] died, message: 'Keith was slain by Zombie Villager'
 [23Jul2025 19:41:58.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Keith'/646, l='ServerLevel[world]', x=2839.22, y=84.00, z=-4511.35] died: Keith was slain by Zombie Villager
+[23Jul2025 19:54:13.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [A Throwaway Joke]

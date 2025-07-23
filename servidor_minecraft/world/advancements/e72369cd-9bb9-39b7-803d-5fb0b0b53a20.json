@@ -3397,7 +3397,9 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_3": "2025-06-17 22:57:43 +0000"
+      "charm_collector_1": "2025-07-23 19:38:38 +0000",
+      "charm_collector_3": "2025-06-17 22:57:43 +0000",
+      "charm_collector_2": "2025-07-23 19:38:40 +0000"
     },
     "done": false
   },

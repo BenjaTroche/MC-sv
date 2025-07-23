@@ -213,3 +213,4 @@
 [23Jul2025 20:10:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
 [23Jul2025 20:10:47.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
 [23Jul2025 20:12:51.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Laila'/25421, l='ServerLevel[world]', x=2719.70, y=63.00, z=-4485.03] died: Laila was doomed to fall by Meu_By using [6Soulbane]
+[23Jul2025 20:18:36.796] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.

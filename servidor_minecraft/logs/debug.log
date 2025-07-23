@@ -3538,3 +3538,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jul2025 19:55:27.515] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
 [23Jul2025 19:57:54.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 19:57:54.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 19:58:15.423] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3122, y=-27, z=-4194}
+[23Jul2025 19:58:15.424] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3122, y=-27, z=-4193}
+[23Jul2025 19:58:20.193] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3262, y=20, z=-4304}
+[23Jul2025 20:01:41.945] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 3745 -56 -4687 in 0s
+[23Jul2025 20:02:54.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 20:02:55.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 20:03:08.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Town of Bedrock]
+[23Jul2025 20:03:10.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has reached the goal [The Cave That Time Forgot]
+[23Jul2025 20:03:24.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3300, y=42, z=-4545} BlockPos{x=3300, y=41, z=-4544}
+[23Jul2025 20:05:07.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Life Finds A Way]
+[23Jul2025 20:05:10.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Jul2025 20:07:24.498] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[23Jul2025 20:07:56.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 20:07:57.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -5291,12 +5291,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-22 02:53:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-22 02:34:39 +0000"
@@ -5309,15 +5303,21 @@
     },
     "done": true
   },
-  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-22 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-07-22 02:53:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
     "criteria": {
-      "has_smooth_sandstone": "2025-07-22 02:34:39 +0000"
+      "has_sand": "2025-07-22 02:53:37 +0000"
     },
     "done": true
   },

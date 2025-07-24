@@ -186,3 +186,9 @@
 [24Jul2025 19:00:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
 [24Jul2025 19:01:13.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Spooky Scary Skeleton]
 [24Jul2025 19:10:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
+[24Jul2025 19:12:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 14.065367115065783,-3.042856170187818,10.064340581890065
+[24Jul2025 19:12:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
+[24Jul2025 19:12:42.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2301, y=-38, z=-6250}
+[24Jul2025 19:13:26.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Diann'/9564, l='ServerLevel[world]', x=2204.52, y=64.00, z=-6041.52] died: Diann was shot by Benja_By
+[24Jul2025 19:15:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Withering Heights]
+[24Jul2025 19:15:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Withering Heights]

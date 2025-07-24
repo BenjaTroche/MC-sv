@@ -160,3 +160,11 @@
 [24Jul2025 18:10:38.356] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [24Jul2025 18:10:38.461] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [24Jul2025 18:10:38.480] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[24Jul2025 18:25:24.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:53303] logged in with entity id 457 at (596.1195176174048, 45.0, -495.3894102409122)
+[24Jul2025 18:25:24.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[24Jul2025 18:25:26.441] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[24Jul2025 18:25:26.443] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[24Jul2025 18:25:39.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[24Jul2025 18:25:40.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[24Jul2025 18:25:40.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[24Jul2025 18:28:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tres cabezas que rico

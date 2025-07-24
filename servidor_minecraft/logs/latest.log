@@ -181,3 +181,4 @@
 [24Jul2025 18:34:16.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
 [24Jul2025 18:38:25.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Spooky Scary Skeleton]
 [24Jul2025 18:38:44.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=20, z=-383} BlockPos{x=446, y=19, z=-383}
+[24Jul2025 18:42:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Oh Shiny]

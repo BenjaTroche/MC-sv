@@ -3335,3 +3335,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jul2025 18:55:40.239] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
 [24Jul2025 18:55:41.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jul2025 18:55:41.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 19:00:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
+[24Jul2025 19:00:38.245] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[24Jul2025 19:00:41.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 19:00:41.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 19:01:13.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Spooky Scary Skeleton]
+[24Jul2025 19:02:59.240] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[24Jul2025 19:05:41.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 19:05:41.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 19:10:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]

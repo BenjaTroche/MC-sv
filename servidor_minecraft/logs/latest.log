@@ -192,3 +192,39 @@
 [24Jul2025 19:13:26.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Diann'/9564, l='ServerLevel[world]', x=2204.52, y=64.00, z=-6041.52] died: Diann was shot by Benja_By
 [24Jul2025 19:15:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Withering Heights]
 [24Jul2025 19:15:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Withering Heights]
+[24Jul2025 19:20:49.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Mastery 1]
+[24Jul2025 19:20:49.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Strong Undead]
+[24Jul2025 19:21:32.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
+[24Jul2025 19:23:56.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
+[24Jul2025 19:28:59.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Guadalupe'/13103, l='ServerLevel[world]', x=2732.48, y=85.00, z=-4490.49] died, message: 'Guadalupe was shot by Meu_By'
+[24Jul2025 19:28:59.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Guadalupe'/13103, l='ServerLevel[world]', x=2732.48, y=85.00, z=-4490.49] died: Guadalupe was shot by Meu_By
+[24Jul2025 19:29:07.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[24Jul2025 19:29:07.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[24Jul2025 19:29:07.452] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[24Jul2025 19:29:22.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.96.220.32:53090] logged in with entity id 14846 at (2707.5071725823855, 63.0, -4489.930249371893)
+[24Jul2025 19:29:22.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[24Jul2025 19:29:22.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[24Jul2025 19:29:22.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[24Jul2025 19:29:29.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[24Jul2025 19:29:30.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[24Jul2025 19:29:30.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[24Jul2025 19:30:11.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
+[24Jul2025 19:30:11.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
+[24Jul2025 19:30:11.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
+[24Jul2025 19:30:18.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[24Jul2025 19:30:18.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[24Jul2025 19:30:18.540] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[24Jul2025 19:30:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 19:30:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SSTOP<--[HERE]
+[24Jul2025 19:30:37.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Jul2025 19:30:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jul2025 19:30:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jul2025 19:30:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jul2025 19:30:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jul2025 19:30:37.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jul2025 19:30:37.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Jul2025 19:30:37.586] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

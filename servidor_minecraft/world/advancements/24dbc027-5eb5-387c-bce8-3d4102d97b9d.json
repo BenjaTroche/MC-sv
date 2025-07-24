@@ -900,6 +900,7 @@
       "minecraft:spider": "2025-06-12 23:00:06 +0000",
       "minecraft:piglin_brute": "2025-06-21 03:09:39 +0000",
       "minecraft:creeper": "2025-06-23 19:34:19 +0000",
+      "minecraft:wither": "2025-07-24 19:20:49 +0000",
       "minecraft:phantom": "2025-07-15 02:26:57 +0000",
       "minecraft:zombified_piglin": "2025-07-01 19:16:31 +0000",
       "minecraft:witch": "2025-06-17 21:44:57 +0000",
@@ -4953,6 +4954,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-07-22 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-24 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-24 19:20:49 +0000"
     },
     "done": true
   },

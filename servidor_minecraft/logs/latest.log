@@ -168,3 +168,16 @@
 [24Jul2025 18:25:40.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
 [24Jul2025 18:25:40.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
 [24Jul2025 18:28:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tres cabezas que rico
+[24Jul2025 18:31:36.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 18:31:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IP<--[HERE]
+[24Jul2025 18:31:38.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jul2025 18:31:38.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
+[24Jul2025 18:33:59.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.96.220.32:49912] logged in with entity id 1617 at (482.0311193567489, 20.0, -447.0265644005017)
+[24Jul2025 18:33:59.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
+[24Jul2025 18:34:03.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
+[24Jul2025 18:34:03.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
+[24Jul2025 18:34:15.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[24Jul2025 18:34:16.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
+[24Jul2025 18:34:16.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
+[24Jul2025 18:38:25.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Spooky Scary Skeleton]
+[24Jul2025 18:38:44.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=20, z=-383} BlockPos{x=446, y=19, z=-383}

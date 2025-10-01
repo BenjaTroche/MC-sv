@@ -1,230 +1,66 @@
-[24Jul2025 18:09:55.391] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Jul2025 18:09:55.396] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[24Jul2025 18:09:56.367] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Jul2025 18:09:56.430] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MC-sv/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Jul2025 18:09:56.747] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC-sv/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 18:09:56.748] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC-sv/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 18:09:56.749] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC-sv/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 18:09:56.750] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MC-sv/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 18:09:56.946] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[24Jul2025 18:09:56.947] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[24Jul2025 18:09:58.959] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Jul2025 18:09:59.159] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[24Jul2025 18:09:59.161] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Jul2025 18:09:59.806] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
-[24Jul2025 18:09:59.928] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[24Jul2025 18:10:00.687] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
-[24Jul2025 18:10:01.335] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[24Jul2025 18:10:07.930] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
-
-[24Jul2025 18:10:08.553] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[24Jul2025 18:10:08.765] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24Jul2025 18:10:08.766] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.767] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.767] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.767] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.767] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.767] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.767] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[24Jul2025 18:10:08.770] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[24Jul2025 18:10:08.772] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[24Jul2025 18:10:08.775] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[24Jul2025 18:10:08.779] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[24Jul2025 18:10:08.781] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[24Jul2025 18:10:08.782] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[24Jul2025 18:10:08.784] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[24Jul2025 18:10:09.048] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Jul2025 18:10:09.049] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Jul2025 18:10:09.760] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[24Jul2025 18:10:10.280] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[24Jul2025 18:10:10.331] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[24Jul2025 18:10:12.782] [main/INFO] [Moonlight/]: Initialized block sets in 12ms
-[24Jul2025 18:10:13.086] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[24Jul2025 18:10:13.095] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[24Jul2025 18:10:13.229] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[24Jul2025 18:10:13.229] [modloading-worker-0/INFO] [com.recipeessentials.RecipeEssentials/]: recipeessentials mod initialized
-[24Jul2025 18:10:13.230] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[24Jul2025 18:10:13.235] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
-[24Jul2025 18:10:13.245] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
-[24Jul2025 18:10:13.271] [modloading-worker-0/INFO] [com.logprot.Logprot/]: Shields up!
-[24Jul2025 18:10:13.278] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[24Jul2025 18:10:13.308] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
-[24Jul2025 18:10:13.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[24Jul2025 18:10:13.344] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
-[24Jul2025 18:10:13.397] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[24Jul2025 18:10:13.405] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[24Jul2025 18:10:13.405] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[24Jul2025 18:10:13.406] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[24Jul2025 18:10:13.416] [main/INFO] [journeymap/]: Initializing Packet Registries
-[24Jul2025 18:10:13.441] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[24Jul2025 18:10:13.441] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[24Jul2025 18:10:13.441] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
-[24Jul2025 18:10:13.480] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 14, 5, 1] ms
-[24Jul2025 18:10:13.508] [main/INFO] [Moonlight/]: Initialized color sets in 25ms
-[24Jul2025 18:10:13.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[24Jul2025 18:10:13.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[24Jul2025 18:10:13.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[24Jul2025 18:10:13.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[24Jul2025 18:10:14.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[24Jul2025 18:10:14.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jul2025 18:10:14.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24Jul2025 18:10:14.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
-[24Jul2025 18:10:14.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.14 Target: null
-[24Jul2025 18:10:14.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[24Jul2025 18:10:14.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.31 Target: null
-[24Jul2025 18:10:14.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[24Jul2025 18:10:14.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.30 Target: 1.20.1-2.5.35
-[24Jul2025 18:10:14.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[24Jul2025 18:10:14.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[24Jul2025 18:10:14.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[24Jul2025 18:10:15.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[24Jul2025 18:10:15.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[24Jul2025 18:10:15.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.4 Target: null
-[24Jul2025 18:10:15.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24Jul2025 18:10:15.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.5
-[24Jul2025 18:10:16.689] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Jul2025 18:10:18.320] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MC-sv/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/assets/.mcassetsroot' uses unexpected schema
-[24Jul2025 18:10:18.320] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MC-sv/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/data/.mcassetsroot' uses unexpected schema
-[24Jul2025 18:10:18.463] [main/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 45 ms
-[24Jul2025 18:10:18.883] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[24Jul2025 18:10:20.252] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.6.jar
-[24Jul2025 18:10:20.292] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.14.jar)
-[24Jul2025 18:10:20.299] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.14.jar)
-[24Jul2025 18:10:20.993] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[24Jul2025 18:10:20.994] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[24Jul2025 18:10:20.994] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[24Jul2025 18:10:21.025] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[24Jul2025 18:10:21.027] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[24Jul2025 18:10:21.054] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[24Jul2025 18:10:21.079] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[24Jul2025 18:10:21.150] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[24Jul2025 18:10:21.200] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1957 advancements
-[24Jul2025 18:10:21.205] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
-[24Jul2025 18:10:21.228] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[24Jul2025 18:10:21.236] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[24Jul2025 18:10:21.253] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[24Jul2025 18:10:21.288] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[24Jul2025 18:10:22.472] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[24Jul2025 18:10:22.504] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[24Jul2025 18:10:22.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Jul2025 18:10:22.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jul2025 18:10:22.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jul2025 18:10:22.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jul2025 18:10:22.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jul2025 18:10:22.683] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jul2025 18:10:22.809] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jul2025 18:10:22.809] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jul2025 18:10:22.809] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jul2025 18:10:22.810] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jul2025 18:10:22.825] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jul2025 18:10:22.826] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Jul2025 18:10:22.930] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[24Jul2025 18:10:23.149] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[24Jul2025 18:10:23.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jul2025 18:10:23.620] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
-[24Jul2025 18:10:26.999] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
-[24Jul2025 18:10:26.999] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
-[24Jul2025 18:10:27.000] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:2 potentially creating overlapping structures detected. Structure sets: [alexscaves:ocean_trench, alexscaves:acid_pit]
-[24Jul2025 18:10:27.000] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:3 potentially creating overlapping structures detected. Structure sets: [alexscaves:cake_cave, alexscaves:ferrocave]
-[24Jul2025 18:10:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jul2025 18:10:31.152] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.153] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.154] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.155] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.155] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.157] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.158] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.159] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.161] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:31.527] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 18:10:32.036] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[24Jul2025 18:10:32.514] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[24Jul2025 18:10:33.053] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[24Jul2025 18:10:33.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[24Jul2025 18:10:34.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[24Jul2025 18:10:34.510] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[24Jul2025 18:10:35.004] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[24Jul2025 18:10:35.512] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[24Jul2025 18:10:36.004] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[24Jul2025 18:10:36.504] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[24Jul2025 18:10:37.035] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[24Jul2025 18:10:37.519] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[24Jul2025 18:10:38.034] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
-[24Jul2025 18:10:38.220] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11218 ms
-[24Jul2025 18:10:38.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.398s)! For help, type "help"
-[24Jul2025 18:10:38.260] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jul2025 18:10:38.296] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: logprot.json
-[24Jul2025 18:10:38.297] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[24Jul2025 18:10:38.297] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
-[24Jul2025 18:10:38.298] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
-[24Jul2025 18:10:38.356] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[24Jul2025 18:10:38.461] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[24Jul2025 18:10:38.480] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[24Jul2025 18:25:24.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:53303] logged in with entity id 457 at (596.1195176174048, 45.0, -495.3894102409122)
-[24Jul2025 18:25:24.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
-[24Jul2025 18:25:26.441] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
-[24Jul2025 18:25:26.443] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
-[24Jul2025 18:25:39.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[24Jul2025 18:25:40.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
-[24Jul2025 18:25:40.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
-[24Jul2025 18:28:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tres cabezas que rico
-[24Jul2025 18:31:36.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[24Jul2025 18:31:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IP<--[HERE]
-[24Jul2025 18:31:38.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[24Jul2025 18:31:38.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
-[24Jul2025 18:33:59.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.96.220.32:49912] logged in with entity id 1617 at (482.0311193567489, 20.0, -447.0265644005017)
-[24Jul2025 18:33:59.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
-[24Jul2025 18:34:03.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
-[24Jul2025 18:34:03.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
-[24Jul2025 18:34:15.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
-[24Jul2025 18:34:16.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
-[24Jul2025 18:34:16.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
-[24Jul2025 18:38:25.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Spooky Scary Skeleton]
-[24Jul2025 18:38:44.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=446, y=20, z=-383} BlockPos{x=446, y=19, z=-383}
-[24Jul2025 18:42:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Oh Shiny]
-[24Jul2025 18:50:27.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
-[24Jul2025 19:00:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Creative Mode]
-[24Jul2025 19:01:13.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Spooky Scary Skeleton]
-[24Jul2025 19:10:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Set own game mode to Survival Mode]
-[24Jul2025 19:12:04.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved too quickly! 14.065367115065783,-3.042856170187818,10.064340581890065
-[24Jul2025 19:12:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Benja_By to Meu_By]
-[24Jul2025 19:12:42.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2301, y=-38, z=-6250}
-[24Jul2025 19:13:26.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Diann'/9564, l='ServerLevel[world]', x=2204.52, y=64.00, z=-6041.52] died: Diann was shot by Benja_By
-[24Jul2025 19:15:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Withering Heights]
-[24Jul2025 19:15:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By has made the advancement [Withering Heights]
-[24Jul2025 19:20:49.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Mastery 1]
-[24Jul2025 19:20:49.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Strong Undead]
-[24Jul2025 19:21:32.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja_By: Teleported Meu_By to Benja_By]
-[24Jul2025 19:23:56.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By moved wrongly!
-[24Jul2025 19:28:59.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Guadalupe'/13103, l='ServerLevel[world]', x=2732.48, y=85.00, z=-4490.49] died, message: 'Guadalupe was shot by Meu_By'
-[24Jul2025 19:28:59.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Guadalupe'/13103, l='ServerLevel[world]', x=2732.48, y=85.00, z=-4490.49] died: Guadalupe was shot by Meu_By
-[24Jul2025 19:29:07.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
-[24Jul2025 19:29:07.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
-[24Jul2025 19:29:07.452] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
-[24Jul2025 19:29:22.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benja_By[/100.96.220.32:53090] logged in with entity id 14846 at (2707.5071725823855, 63.0, -4489.930249371893)
-[24Jul2025 19:29:22.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By joined the game
-[24Jul2025 19:29:22.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benja_By (18)
-[24Jul2025 19:29:22.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benja_By
-[24Jul2025 19:29:29.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
-[24Jul2025 19:29:30.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e72369cd-9bb9-39b7-803d-5fb0b0b53a20
-[24Jul2025 19:29:30.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benja_By (e72369cd-9bb9-39b7-803d-5fb0b0b53a20) successfully connected to voice chat
-[24Jul2025 19:30:11.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja_By lost connection: Disconnected
-[24Jul2025 19:30:11.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja_By left the game
-[24Jul2025 19:30:11.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benja_By
-[24Jul2025 19:30:18.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
-[24Jul2025 19:30:18.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
-[24Jul2025 19:30:18.540] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
-[24Jul2025 19:30:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[24Jul2025 19:30:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SSTOP<--[HERE]
-[24Jul2025 19:30:37.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[24Jul2025 19:30:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[24Jul2025 19:30:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[24Jul2025 19:30:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[24Jul2025 19:30:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[24Jul2025 19:30:37.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[24Jul2025 19:30:37.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[24Jul2025 19:30:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[24Jul2025 19:30:37.586] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[18:22:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:22:27] [ServerMain/INFO]: Loaded 7 recipes
+[18:22:27] [ServerMain/INFO]: Loaded 1271 advancements
+[18:22:28] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:22:28] [Server thread/INFO]: Loading properties
+[18:22:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:22:28] [Server thread/INFO]: Generating keypair
+[18:22:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:22:28] [Server thread/INFO]: Using epoll channel type
+[18:22:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:22:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:22:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:22:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:22:28] [Server thread/INFO]: Preparing level "OnlyBrawl"
+[18:22:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:22:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:22:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:22:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:22:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:22:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:22:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:22:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:22:34] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:22:35] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[18:22:35] [Server thread/INFO]: Time elapsed: 4401 ms
+[18:22:35] [Server thread/INFO]: Done (7.353s)! For help, type "help"
+[18:22:44] [Server thread/INFO]: Van_Net[/127.221.233.66:49991] logged in with entity id 204 at (101.61662663364484, 70.0, 25.8944842123127)
+[18:22:44] [Server thread/INFO]: Van_Net joined the game
+[18:23:14] [Server thread/INFO]: Zuri_Set[/127.209.53.89:43993] logged in with entity id 284 at (2.5, 76.0, 8.5)
+[18:23:14] [Server thread/INFO]: Zuri_Set joined the game
+[18:23:24] [Server thread/INFO]: [Not Secure] <Van_Net> set?
+[18:23:25] [Server thread/INFO]: [Not Secure] <Van_Net> net?
+[18:23:45] [Server thread/INFO]: [Not Secure] <Zuri_Set> Hijos de puta, mataron a Kenny
+[18:24:08] [Server thread/INFO]: [Not Secure] <Van_Net> quería ponerle de logo a kenny moribundo pero no sabía como
+[18:24:12] [Server thread/INFO]: [Not Secure] <Zuri_Set> el Set es uan broma que tengo con otros amigos
+[18:24:40] [Server thread/INFO]: [Not Secure] <Van_Net> ontas?
+[18:24:58] [Server thread/INFO]: [Not Secure] <Zuri_Set> -13 18
+[18:25:15] [Server thread/INFO]: [Not Secure] <Van_Net> ._.
+[18:25:18] [Server thread/INFO]: [Not Secure] <Van_Net> queseso?
+[18:25:23] [Server thread/INFO]: [Not Secure] <Zuri_Set> cordenadas
+[18:25:28] [Server thread/INFO]: [Not Secure] <Van_Net> ah okk
+[18:25:32] [Server thread/INFO]: [Not Secure] <Van_Net> lo supuse
+[18:25:41] [Server thread/INFO]: Zuri_Set has made the advancement [Stone Age]
+[18:26:02] [Server thread/INFO]: [Not Secure] <Zuri_Set> en "block" con el f3 debe poner esas cordenadas
+[18:26:15] [Server thread/INFO]: [Not Secure] <Zuri_Set> para ser mas especifica es -13 69 18
+[18:26:55] [Server thread/INFO]: Zuri_Set has made the advancement [Getting an Upgrade]
+[18:26:58] [Server thread/INFO]: Van_Net has made the advancement [Stone Age]
+[18:27:09] [Server thread/INFO]: [Not Secure] <Van_Net> te ves como yo ¨p
+[18:27:15] [Server thread/INFO]: [Not Secure] <Van_Net> ö*
+[18:27:22] [Server thread/INFO]: Van_Net has made the advancement [Getting an Upgrade]
+[18:27:26] [Server thread/INFO]: [Not Secure] <Zuri_Set> es que el servidor es no premium asi que no tengo mi skin de java
+[18:27:43] [Server thread/INFO]: [Not Secure] <Van_Net> el servidor también?
+[18:28:02] [Server thread/INFO]: [Not Secure] <Zuri_Set> q
+[18:28:11] [Server thread/INFO]: [Not Secure] <Van_Net> no nada
+[18:28:14] [Server thread/INFO]: [Not Secure] <Van_Net> ya entendí
+[18:29:57] [Server thread/INFO]: [Not Secure] <Zuri_Set> Vane?
+[18:30:11] [Server thread/INFO]: [Not Secure] <Zuri_Set> espacio
+[18:30:24] [Server thread/INFO]: [Not Secure] <Van_Net> soy horrible :c
+[18:30:28] [Server thread/INFO]: [Not Secure] <Zuri_Set> nt
+[18:30:48] [Server thread/INFO]: [Not Secure] <Zuri_Set> bioma para hacer la "casa"
+[18:30:53] [Server thread/INFO]: [Not Secure] <Zuri_Set> ?
+[18:31:04] [Server thread/INFO]: [Not Secure] <Van_Net> bioma es como el tipo de naturaleza?
+[18:31:10] [Server thread/INFO]: [Not Secure] <Zuri_Set> sip
+[18:31:30] [Server thread/INFO]: [Not Secure] <Zuri_Set> planicie te pinta?
+[18:31:36] [Server thread/INFO]: [Not Secure] <Van_Net> sisi
+[18:31:44] [Server thread/INFO]: Seed: [-8813980642745168373]
